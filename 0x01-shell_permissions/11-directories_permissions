@@ -1,2 +1,2 @@
 #!/bin/bash
-find ls -r chmod a+=x
+find -r chmod a=+x
